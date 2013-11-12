@@ -1,0 +1,1 @@
+User.create(name: "Alex", twitter_handle: "froeal01", password: 'password')
